@@ -11,7 +11,7 @@
 - Supply Chain expertise with 10years of industry experience under my belt
 
 📚 Projects:
-Welcome to my portfolio, where I showcase my data-driven [projects](link).
+- Welcome to my portfolio, where I showcase my data-driven [projects](link).
 
 🛠️ Tools:
 - Languages: SQL, Python
