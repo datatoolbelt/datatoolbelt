@@ -33,4 +33,7 @@ I’m combining my current experience in **SAP MM,QM with Odoo ERP customization
 ---
 
 ## 📂 Portfolio Link
-[erp-product-management-portfolio]()
+* [erp-product-management-portfolio]()
+* [Exploratory data analysis with SQL](https://github.com/datatoolbelt/cleaning-exploratory-sql/blob/d612db31e60757b1906165b444076843c3d1a885/README.md)
+* [Medium article](https://medium.com/@datatoolbelt/data-cleaning-and-eda-with-sql-4e70e84ef3b2)
+* [SQL Challenge](https://github.com/datatoolbelt/SQL-Challenge/blob/f7052024272c58e69cfeee0848c8e58031b7e113/README.md)
